@@ -1,5 +1,4 @@
 ## Ref list for multimodal registration
-Quality is over quantity. Only list papers directly related and useful.
 ### Survey papers
 - Deep Learning in Medical Image Registration: A Survey, arXiv 2019 [pdf](https://arxiv.org/pdf/1903.02026.pdf)
 - A survey on deep learning in medical image analysis, 2017
