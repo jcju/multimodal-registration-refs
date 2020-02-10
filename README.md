@@ -1,8 +1,10 @@
-## Ref list for multimodal registration
+# Ref list for multimodal registration
 ## Table of Contents
 - [Survey papers](#survey-papers)
 - [Vessel Segmentation](#vessel-segmentation)
 - [Image Registration (AI method)](#image-registration-ai-method)
+- [Image Registration (Traditional)](#traditional)
+- [Montaging](#montaging)
 ## Survey papers
 - [**arXiv 2019**] Deep Learning in Medical Image Registration: A Survey [pdf](https://arxiv.org/pdf/1903.02026.pdf)
 - [**Journal 2017**] A survey on deep learning in medical image analysis [pdf](https://arxiv.org/pdf/1702.05747.pdf)
@@ -19,5 +21,7 @@
 - [[**arXiv 2018**]](https://arxiv.org/abs/1807.03361) Weakly-Supervised Convolutional Neural Networks for Multimodal Image Registration - Yipeng Hu [pdf](https://arxiv.org/ftp/arxiv/papers/1807/1807.03361.pdf)
 * [[**arXiv 2018**]](https://arxiv.org/abs/1809.05231) VoxelMorph: A Learning Framework for Deformable Medical Image Registration, [pdf](https://arxiv.org/pdf/1809.05231.pdf) [[code]](https://github.com/voxelmorph/voxelmorph)
 ### General
+## Image Registration (Traditional)
+- [**Journal 2003**] Registration and Fusion of Retinal Images—An Evaluation Study
 ## Montaging
 * [**Journal 2013**] Automated non-rigid registration and mosaicing for robust imaging of distinct retinal capillary beds using speckle variance optical coherence tomography
