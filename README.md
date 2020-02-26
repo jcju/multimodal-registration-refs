@@ -18,6 +18,7 @@
 * [[**CVPR 2015**]](https://ieeexplore.ieee.org/document/7298707) LiSPA: A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration, J. A. Lee [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lee_A_Low-Dimensional_Step_2015_CVPR_paper.pdf)
 - [[**ICIP 2019**]](https://ieeexplore.ieee.org/document/7298707) Joint Vessel Segmentation and Deformable Registration
 on Multi-Modal Retinal Images based on Style Transfer, J. Zhang [pdf](http://cwc.ucsd.edu/sites/cwc.ucsd.edu/files/01-08802932.pdf)
+\
     > Dice & MIND; \
     >   [[Github repo]](https://github.com/JunkangZhang/RetinalSegReg)
 ### Medical
