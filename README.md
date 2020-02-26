@@ -17,9 +17,9 @@
 - [**ICCV 2019**] A Deep Step Pattern Representation for Multimodal Retinal Image Registration, J. A. Lee [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_A_Deep_Step_Pattern_Representation_for_Multimodal_Retinal_Image_Registration_ICCV_2019_paper.pdf)
 * [[**CVPR 2015**]](https://ieeexplore.ieee.org/document/7298707) LiSPA: A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration, J. A. Lee [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lee_A_Low-Dimensional_Step_2015_CVPR_paper.pdf)
 - [[**ICIP 2019**]](https://ieeexplore.ieee.org/document/7298707) Joint Vessel Segmentation and Deformable Registration
-on Multi-Modal Retinal Images based on Style Transfer, J. Zhang [pdf](http://cwc.ucsd.edu/sites/cwc.ucsd.edu/files/01-08802932.pdf) [code](https://github.com/JunkangZhang/RetinalSegReg)
-    > Dice & MIND
-    > [[Github repo]](https://github.com/JunkangZhang/RetinalSegReg)
+on Multi-Modal Retinal Images based on Style Transfer, J. Zhang [pdf](http://cwc.ucsd.edu/sites/cwc.ucsd.edu/files/01-08802932.pdf)
+    > Dice & MIND; \
+    >   [[Github repo]](https://github.com/JunkangZhang/RetinalSegReg)
 ### Medical
 - [[**arXiv 2018**]](https://arxiv.org/abs/1807.03361) Weakly-Supervised Convolutional Neural Networks for Multimodal Image Registration, Yipeng Hu [pdf](https://arxiv.org/ftp/arxiv/papers/1807/1807.03361.pdf)
 * [[**arXiv 2018**]](https://arxiv.org/abs/1809.05231) VoxelMorph: A Learning Framework for Deformable Medical Image Registration, MIT [pdf](https://arxiv.org/pdf/1809.05231.pdf) [[code]](https://github.com/voxelmorph/voxelmorph)
@@ -31,7 +31,7 @@ on Multi-Modal Retinal Images based on Style Transfer, J. Zhang [pdf](http://cwc
 - [**Journal 2006**] Hybrid Retinal Image Registration [link](
 https://www.researchgate.net/publication/3415800_Hybrid_Retinal_Image_Registration)
 * [[**arXiv 2018**]](https://arxiv.org/abs/1803.00951) Multimodal Registration of Retinal Images Using Domain-Specific Landmarks and Vessel Enhancement, A. Hervella [pdf](https://arxiv.org/pdf/1803.00951.pdf)
-    > OCTA & FA
+    > OCTA & FA img; \
     > very basic method
 ## Montaging
 * [**Journal 2013**] Automated non-rigid registration and mosaicing for robust imaging of distinct retinal capillary beds using speckle variance optical coherence tomography
